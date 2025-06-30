@@ -51,7 +51,10 @@ This project is a **Jupyter Notebook** that predicts the results of the **2025 F
 |--------|--------------------|
 | NOR    | 71.584765          |
 | PIA    | 71.584765          |
-| RUs    | 71.712174          |
+| VER    | 71.774480          |
+
+> ℹ️ **Note**: Although the model predicted Verstappen to finish P3 based on pace, he **Did Not Finish (DNF)** in the actual race due to the crash. This highlights one of the model's limitations: it does not account for race-day incidents such as crashes or retirements.
+
 
 ## ⚠️ Limitations
 
