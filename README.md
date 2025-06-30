@@ -21,7 +21,7 @@ This project is a **Jupyter Notebook** that predicts the results of the **2025 F
 - Integrates weather metrics: air temperature, rain probability
 - Derives performance consistency, tyre degradation, and driver form
 
-### Features Used
+### ⚙️ Features Used
 - Qualifying Time: The driver's qualifying lap time for the Grand Prix.
 - Rain Probability: Probability of rain at race time, sourced from live weather data.
 - Temperature: Forecasted temperature at race time.
